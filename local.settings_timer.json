@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "tenantId": "051e06c9-4967-4f05-91c4-eb540b2e9878",
+    "clientId": "1e06a7c6-cf57-4c08-b802-22ee6d29a4be",
+    "clientSecret": "wR28Q~myxOXpO.-g2BZKNeGqsMD4B3xWoBz6LdwT",
+    "KVUri": "https://automationtestkv1.vault.azure.net/",
+    "Subject": "Secret Expiration Notification Email",
+    "sentFrom": "moeenahmed769@gmail.com",
+    "sentTo": "moeenahmed769@gmail.com",
+    "httpFunctionUrl": "https://automationkvsendemailfa.azurewebsites.net/api/HttpTrigger1",
+    "authCode":"6XAkC44Prv5rRyDVKb2FRW56A1-zWI9epfHoNPsRqKI_AzFutdivAA=="
+  }
+}
